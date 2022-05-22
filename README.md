@@ -1,2 +1,2 @@
 # kmosha-djs
-xo fir discord.js
+xo for discord.js
